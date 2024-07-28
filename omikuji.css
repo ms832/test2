@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    margin: 30px;
+}
+#button{
+    background: linear-gradient(to left,#edbf8a,#b58043);
+    text-align: center;
+    padding: 15px 20px;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 35%;
+    color: white;
+    border: none;
+}
+#kekka{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(98, 98, 98);
+}
